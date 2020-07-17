@@ -1,0 +1,20 @@
+1.划分目录结构
+components里面放入公共组件
+   common放入所有项目都可以使用的组件
+   content是当前项目使用的组件
+
+
+views页面中放的是页面组件(比较大)
+   每个模块创建一个文件夹来放置组件
+
+
+router是route相关文件夹
+
+store是vuex相关文件
+
+network网络请求相关文件
+
+common文件夹 公共的js文件
+
+
+2.引用连个css文件
